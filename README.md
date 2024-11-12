@@ -13,7 +13,8 @@ To run this code, you need to have the OpenGL library installed. You can install
 ```bash
 sudo apt-get install libgl1-mesa-dev 
 
-Cloning the Repository
+#### Cloning the Repository
 Clone this repository to your local machine using:
+
 ```bash
-git clone https://github.com/g-sat/Project.git
+git clone https://github.com/yourusername/your-repo-name.git
