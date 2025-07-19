@@ -11,10 +11,12 @@ The Maze Solver Application is a visually engaging tool that demonstrates the fu
 To run this code, you need to have the OpenGL library installed. You can install it using the following command:
 
 ```bash
-sudo apt-get install libgl1-mesa-dev 
+sudo apt-get install libgl1-mesa-dev
+```
 
 #### Cloning the Repository
 Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
+```
